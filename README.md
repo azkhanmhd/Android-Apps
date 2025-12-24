@@ -9,7 +9,7 @@ Click on any app below to view its project details.
 ### 🧩 SQL Playground
 Practice, save, and share SQL queries using a simple SQL Playground app.
 
-🔗 **View Project:** [SQL Playground](./SQL%20Playground)
+🔗 **View Project:** [SQL Playground](./SQL%20Playground#sql-playground)
 
 ---
 
